@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://martaknitter.github.io/csb-q4psgy/static/css/main.b7e0ae12.chunk.css",
+    "main.js": "https://martaknitter.github.io/csb-q4psgy/static/js/main.86dd23d3.chunk.js",
+    "main.js.map": "https://martaknitter.github.io/csb-q4psgy/static/js/main.86dd23d3.chunk.js.map",
+    "runtime-main.js": "https://martaknitter.github.io/csb-q4psgy/static/js/runtime-main.5800b3e8.js",
+    "runtime-main.js.map": "https://martaknitter.github.io/csb-q4psgy/static/js/runtime-main.5800b3e8.js.map",
+    "static/js/2.e1747c50.chunk.js": "https://martaknitter.github.io/csb-q4psgy/static/js/2.e1747c50.chunk.js",
+    "static/js/2.e1747c50.chunk.js.map": "https://martaknitter.github.io/csb-q4psgy/static/js/2.e1747c50.chunk.js.map",
+    "index.html": "https://martaknitter.github.io/csb-q4psgy/index.html",
+    "static/css/main.b7e0ae12.chunk.css.map": "https://martaknitter.github.io/csb-q4psgy/static/css/main.b7e0ae12.chunk.css.map",
+    "static/js/2.e1747c50.chunk.js.LICENSE.txt": "https://martaknitter.github.io/csb-q4psgy/static/js/2.e1747c50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5800b3e8.js",
+    "static/js/2.e1747c50.chunk.js",
+    "static/css/main.b7e0ae12.chunk.css",
+    "static/js/main.86dd23d3.chunk.js"
+  ]
+}
